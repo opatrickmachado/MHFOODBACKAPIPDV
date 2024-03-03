@@ -64,3 +64,9 @@ Para executar este projeto em Laravel, siga as instruções abaixo:
 7. Acesse o projeto em seu navegador utilizando o endereço local fornecido pelo Laravel.
 
 Agora você está pronto para começar a utilizar o MHFOOD! Divirta-se explorando as funcionalidades deste sistema de delivery.
+
+Deploys:
+
+https://delivery.uners.com.br/api/clients
+https://delivery.uners.com.br/api/orders
+https://delivery.uners.com.br/api/products
