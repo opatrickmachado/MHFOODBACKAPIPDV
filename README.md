@@ -67,6 +67,8 @@ Agora você está pronto para começar a utilizar o MHFOOD! Divirta-se explorand
 
 Deploys:
 
-https://delivery.uners.com.br/api/clients
-https://delivery.uners.com.br/api/orders
-https://delivery.uners.com.br/api/products
+**https://delivery.uners.com.br/api/clients**
+
+**https://delivery.uners.com.br/api/orders**
+
+**https://delivery.uners.com.br/api/products**
